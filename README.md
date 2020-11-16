@@ -5,7 +5,8 @@ This code automatically fixes pelvis tracker's position using simple Neural netw
 
 Uploaded to Github to share idea if it is possible.
 
-
+## Participators
+@r3coder, @jshparksh for writing code and report
 
 ### Disclaimer
 
